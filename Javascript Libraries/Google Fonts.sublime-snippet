@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<link href='http://fonts.googleapis.com/css?family=${Artifika}' rel='stylesheet' type='text/css'>
+	<content><![CDATA[<link href='http://fonts.googleapis.com/css?family=${1:Artifika}' rel='stylesheet' type='text/css'>
 $0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Google Fonts</description>
