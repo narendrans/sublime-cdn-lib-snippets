@@ -2,7 +2,7 @@
 	<content><![CDATA[<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 		]]></content>
-	<tabTrigger>bootstrap</tabTrigger>
+	<tabTrigger>cdn</tabTrigger>
 	<description>Bootstrap</description>
 	<scope>source.php,text.html</scope>
 </snippet>
