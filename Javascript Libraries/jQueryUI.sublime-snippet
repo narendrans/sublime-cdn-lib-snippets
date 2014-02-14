@@ -1,5 +1,6 @@
 <snippet>
-	<content><![CDATA[<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/${1:1.8.16}/jquery-ui.min.js"></script>$0]]></content>
+	<content><![CDATA[<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/smoothness/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>jQuery UI</description>
 	<scope>source.php,text.html</scope>

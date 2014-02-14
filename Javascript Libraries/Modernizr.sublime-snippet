@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js"></script>]]></content>
+	<tabTrigger>cdn</tabTrigger>
+	<description>Modernizr</description>
+	<scope>source.php,text.html</scope>
+</snippet>
