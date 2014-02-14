@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<script src="//ajax.googleapis.com/ajax/libs/angularjs/${1.2.12}/angular.min.js"></script>$0]]></content>
+	<tabTrigger>cdn</tabTrigger>
+	<description>Angular JS</description>
+	<scope>source.php,text.html</scope>
+</snippet>
