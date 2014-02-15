@@ -1,4 +1,4 @@
-js-lib
+Sublime CDN libraries
 ======
 
 This is a sublime package that provides snippets for popular JS/CSS form CDN <br/>
