@@ -11,10 +11,12 @@ Currently the following libraries are available:<br/><br/>
 Angular JS<br/>
 Bootstrap<br/>
 Datatables<br/>
+Font Awesome<br/>
 Jquery<br/>
 Jquery UI<br/>
 Jquery Mobile<br/>
 Modernizr<br/>
 Mustache<br/>
 Google Fonts<br/>
+Underscore.js<br/>
 </em>
