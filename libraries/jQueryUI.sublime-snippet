@@ -1,15 +1,6 @@
 <snippet>
 	<content><![CDATA[<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/${1:1.10.4}/themes/smoothness/jquery-ui.min.css" />
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/${1:1.10.4}/jquery-ui.min.js"></script>
-<!-- Tip: You can replace the smoothness theme with any of the below themes:
-
-black-tie, blitzer, cupertino, dark-hive, dot-luv, eggplant, excite-bike, flick, 
-hot-sneaks, humanity, le-frog, mint-choc, overcast,pepper-grinder, redmond, smoothness, 
-south-street, start, sunny, swanky-purse, trontastic, ui-darkness, ui-lightness, and vader.
-
-ex: <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/cupertino/jquery-ui.min.css" />
--->
-$0]]></content>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/${1:1.10.4}/jquery-ui.min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>jQuery UI</description>
 	<scope>source.php,text.html</scope>
