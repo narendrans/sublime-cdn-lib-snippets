@@ -9,7 +9,7 @@ south-street, start, sunny, swanky-purse, trontastic, ui-darkness, ui-lightness,
 
 ex: <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/themes/cupertino/jquery-ui.min.css" />
 -->
-]]>$0</content>
+$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>jQuery UI</description>
 	<scope>source.php,text.html</scope>
