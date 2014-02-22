@@ -3,6 +3,6 @@
 <script src="//netdna.bootstrapcdn.com/bootstrap/${1:3.1.1}/js/bootstrap.min.js"></script>$0
 		]]></content>
 	<tabTrigger>cdn</tabTrigger>
-	<description>Bootstrap</description>
+	<description>Bootstrap CSS</description>
 	<scope>source.php,text.html</scope>
 </snippet>
