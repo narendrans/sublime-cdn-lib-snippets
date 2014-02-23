@@ -9,16 +9,22 @@ Just type 'cdn' and hit ctrl+space to see list of JS/CSS that are hosted in CDN
 ![Sample](https://raw.github.com/narendrans/sublime-cdn-lib-snippets/master/screenshot.png "Sample Screenshot") <br/>
 ## Available libraries
 <em>
+960GS <br/>
 Angular JS<br/>
+Alloy UI <br/>
 Bootstrap<br/>
 Datatables<br/>
 Font Awesome<br/>
+Google Fonts<br/>
+Handlebar <br/>
 Jquery<br/>
 Jquery UI<br/>
 Jquery Mobile<br/>
+LESS <br/>
+Typeahead <br/>
 Modernizr<br/>
 Mustache<br/>
-Google Fonts<br/>
+Pure <br/>
 Underscore.js<br/>
 </em>
 
