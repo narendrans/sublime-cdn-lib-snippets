@@ -13,6 +13,7 @@ Just type 'cdn' and hit ctrl+space to see list of JS/CSS that are hosted in CDN
 Angular JS<br/>
 Alloy UI <br/>
 Bootstrap<br/>
+D3 <br/>
 Datatables<br/>
 Font Awesome<br/>
 Google Fonts<br/>
@@ -24,6 +25,8 @@ LESS <br/>
 Typeahead <br/>
 Modernizr<br/>
 Mustache<br/>
+NVD3 <br/>
+Prototype <br/>
 Pure <br/>
 Underscore.js<br/>
 </em>
