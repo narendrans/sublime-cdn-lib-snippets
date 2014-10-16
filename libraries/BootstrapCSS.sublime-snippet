@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<link href="http://ajax.aspnetcdn.com/ajax/bootstrap/${1:3.2.0}/bootstrap.min.css" rel="stylesheet">$0]]></content>
+	<content><![CDATA[<link href="//ajax.aspnetcdn.com/ajax/bootstrap/${1:3.2.0}/bootstrap.min.css" rel="stylesheet">$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Bootstrap CSS</description>
 	<scope>source.php,text.html</scope>
