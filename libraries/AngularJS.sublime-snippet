@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//ajax.googleapis.com/ajax/libs/angularjs/${1:1.3.0}/angular.min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Angular JS</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html, source.jade</scope>
 </snippet>
