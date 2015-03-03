@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Mustache</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>

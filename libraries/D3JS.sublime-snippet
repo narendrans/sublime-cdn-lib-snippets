@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/d3/${1:3.4.13}/d3.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>D3 JS</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>

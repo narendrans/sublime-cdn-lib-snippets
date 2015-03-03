@@ -2,5 +2,5 @@
 	<content><![CDATA[<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/960gs/0/960.css">]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>960gs</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
