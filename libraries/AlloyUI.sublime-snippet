@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/alloy-ui/${1:1.0.1}/aui-min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>AlloyUI</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
