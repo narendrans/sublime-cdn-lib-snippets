@@ -3,5 +3,5 @@
         ]]></content>
     <tabTrigger>cdn</tabTrigger>
     <description>Font Awesome</description>
-    <scope>source.php,text.html</scope>
+    <scope>source.php,text.html,source.jade</scope>
 </snippet>
