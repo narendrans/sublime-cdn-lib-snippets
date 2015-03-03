@@ -2,5 +2,5 @@
 	<content><![CDATA[<link rel="stylesheet" href="http://yui.yahooapis.com/pure/${1:0.4.2}/pure-min.css">$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>PureCSS</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
