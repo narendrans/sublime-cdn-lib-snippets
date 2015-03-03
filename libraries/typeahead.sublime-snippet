@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/${1:0.9.3}/typeahead.min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Typeahead</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
