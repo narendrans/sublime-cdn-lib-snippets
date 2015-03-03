@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/${1:2.7.1}/modernizr.min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Modernizr</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
