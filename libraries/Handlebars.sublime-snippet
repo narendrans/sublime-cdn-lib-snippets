@@ -2,5 +2,5 @@
 	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Handlerbars</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
