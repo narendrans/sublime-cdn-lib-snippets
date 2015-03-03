@@ -3,5 +3,5 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquerymobile/${1:1.4.0}/jquery.mobile.min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Jquery Mobile</description>
-	<scope>source.php,text.html</scope>
+	<scope>source.php,text.html,source.jade</scope>
 </snippet>
