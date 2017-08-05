@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/datatables/1.9.4/jquery.dataTables.min.js"></script>]]></content>
+	<content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/datatables/1.10.15/jquery.dataTables.min.js"></script>]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>Datatables</description>
 	<scope>source.php,text.html,source.jade</scope>
