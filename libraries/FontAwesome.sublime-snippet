@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<link href="//netdna.bootstrapcdn.com/font-awesome/${1:4.0.3}/css/font-awesome.min.css" rel="stylesheet">$0
+    <content><![CDATA[<link href="//netdna.bootstrapcdn.com/font-awesome/${1:4.7.0}/css/font-awesome.min.css" rel="stylesheet">$0
         ]]></content>
     <tabTrigger>cdn</tabTrigger>
     <description>Font Awesome</description>
