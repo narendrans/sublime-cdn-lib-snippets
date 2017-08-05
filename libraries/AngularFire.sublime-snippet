@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[<script src="//cdn.firebase.com/libs/angularfire/${1:1.1.1}/angularfire.min.js"></script>$0]]></content>
+	<content><![CDATA[<script src="//cdn.firebase.com/libs/angularfire/${1:2.3.0}/angularfire.min.js"></script>$0]]></content>
 	<tabTrigger>cdn</tabTrigger>
 	<description>AngularFire : AngularJS + Firebase</description>
 	<scope>source.php,text.html, source.jade</scope>
