@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.runtime.min.js"></script>]]></content>
+  <tabTrigger>cdn</tabTrigger>
+  <description>Handlerbars Runtime</description>
+  <scope>source.php,text.html,source.jade</scope>
+</snippet>
