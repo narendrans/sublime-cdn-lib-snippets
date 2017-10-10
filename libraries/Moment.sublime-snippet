@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.0/moment.min.js"></script>]]></content>
+  <tabTrigger>cdn</tabTrigger>
+  <description>Moment.js</description>
+  <scope>source.php,text.html,source.jade</scope>
+</snippet>
